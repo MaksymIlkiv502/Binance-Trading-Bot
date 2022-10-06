@@ -1,0 +1,1017 @@
+2022-09-25 17:03:48,946:websocket connected
+2022-09-25 17:05:07,981: - goodbye
+2022-09-25 17:05:08,305:error from callback <function on_close at 0x000001CFBAB199D0>: on_close() takes 1 positional argument but 3 were given
+2022-09-25 17:05:19,563:websocket connected
+2022-09-25 17:06:01,174:The order has been created. Order id:  78513715148
+2022-09-25 17:06:01,434:The order is not filled. Sleep. 
+2022-09-25 17:06:06,697:The order is not filled. Sleep. 
+2022-09-25 17:06:11,962:The order is not filled. Sleep. 
+2022-09-25 17:06:17,223:The order is not filled. Sleep. 
+2022-09-25 17:06:22,486:The order is not filled. Sleep. 
+2022-09-25 17:06:27,750:The order is not filled. Sleep. 
+2022-09-25 17:06:33,027:The order is not filled. Sleep. 
+2022-09-25 17:06:38,303:The order is not filled. Sleep. 
+2022-09-25 17:06:43,565:The order is not filled. Sleep. 
+2022-09-25 17:06:48,564: - goodbye
+2022-09-25 17:06:48,852:error from callback <function on_close at 0x0000022300C099D0>: on_close() takes 1 positional argument but 3 were given
+2022-09-25 17:07:41,646:websocket connected
+2022-09-25 17:08:01,868:The order has been created. Order id:  78513976008
+2022-09-25 17:08:02,123:The order is not filled. Sleep. 
+2022-09-25 17:08:07,384:The order is not filled. Sleep. 
+2022-09-25 17:08:12,646:The order is not filled. Sleep. 
+2022-09-25 17:08:17,906:The order is not filled. Sleep. 
+2022-09-25 17:08:23,167:The order is not filled. Sleep. 
+2022-09-25 17:08:28,432:The order is not filled. Sleep. 
+2022-09-25 17:08:34,379:The order is not filled. Sleep. 
+2022-09-25 17:08:39,638:The order is not filled. Sleep. 
+2022-09-25 17:08:44,896:The order is not filled. Sleep. 
+2022-09-25 17:08:50,161:The order is not filled. Sleep. 
+2022-09-25 17:08:55,420:The order is not filled. Sleep. 
+2022-09-25 17:09:01,362:The order is not filled. Sleep. 
+2022-09-25 17:09:06,621:The order is not filled. Sleep. 
+2022-09-25 17:09:11,885:The order is not filled. Sleep. 
+2022-09-25 17:09:17,143:The order is not filled. Sleep. 
+2022-09-25 17:09:22,405:The order is not filled. Sleep. 
+2022-09-25 17:09:27,665:The order is not filled. Sleep. 
+2022-09-25 17:09:32,923:The order is not filled. Sleep. 
+2022-09-25 17:09:38,877:The order is not filled. Sleep. 
+2022-09-25 17:09:44,823:The order is not filled. Sleep. 
+2022-09-25 17:09:50,768:The order is not filled. Sleep. 
+2022-09-25 17:09:56,028:The order is not filled. Sleep. 
+2022-09-25 17:10:01,287:The order is not filled. Sleep. 
+2022-09-25 17:10:06,552:The order is not filled. Sleep. 
+2022-09-25 17:10:11,816:The order is not filled. Sleep. 
+2022-09-25 17:10:17,077:The order is not filled. Sleep. 
+2022-09-25 17:10:23,024:The order is not filled. Sleep. 
+2022-09-25 17:10:28,282:The order is not filled. Sleep. 
+2022-09-25 17:10:33,544:The order is not filled. Sleep. 
+2022-09-25 17:10:38,806:The order is not filled. Sleep. 
+2022-09-25 17:10:44,746:The order is not filled. Sleep. 
+2022-09-25 17:10:50,700:The order is not filled. Sleep. 
+2022-09-25 17:10:55,959:The order is not filled. Sleep. 
+2022-09-25 17:11:01,225:The order is not filled. Sleep. 
+2022-09-25 17:11:06,491:The order is not filled. Sleep. 
+2022-09-25 17:11:11,753:The order is not filled. Sleep. 
+2022-09-25 17:11:17,015:The order is not filled. Sleep. 
+2022-09-25 17:11:22,297:The order is not filled. Sleep. 
+2022-09-25 17:11:27,564:The order is not filled. Sleep. 
+2022-09-25 17:11:32,823:The order is not filled. Sleep. 
+2022-09-25 17:11:38,159:The order is not filled. Sleep. 
+2022-09-25 17:11:43,421:The order is not filled. Sleep. 
+2022-09-25 17:11:49,374:The order is not filled. Sleep. 
+2022-09-25 17:11:54,636:The order is not filled. Sleep. 
+2022-09-25 17:12:00,821:The order is not filled. Sleep. 
+2022-09-25 17:12:06,155:The order is not filled. Sleep. 
+2022-09-25 17:12:11,414:The order is not filled. Sleep. 
+2022-09-25 17:12:16,683:The order is not filled. Sleep. 
+2022-09-25 17:12:21,941:The order is not filled. Sleep. 
+2022-09-25 17:12:27,206:The order is not filled. Sleep. 
+2022-09-25 17:12:32,473:The order is not filled. Sleep. 
+2022-09-25 17:12:37,736:The order is not filled. Sleep. 
+2022-09-25 17:12:42,703: - goodbye
+2022-09-25 17:12:43,307:error from callback <function on_close at 0x00000177377099D0>: on_close() takes 1 positional argument but 3 were given
+2022-09-25 17:15:39,081:websocket connected
+2022-09-25 17:16:44,968: - goodbye
+2022-09-25 17:16:45,275:error from callback <function on_close at 0x0000027AEE1CF9D0>: on_close() takes 1 positional argument but 3 were given
+2022-09-25 17:16:51,631:websocket connected
+2022-09-25 17:17:01,806:The order has been created. Order id:  78515164337
+2022-09-25 17:17:02,748:The order is not filled. Sleep. 
+2022-09-25 17:17:33,022:The order is not filled. Sleep. 
+2022-09-25 17:18:03,285:The order is not filled. Sleep. 
+2022-09-25 17:18:33,542:The order is not filled. Sleep. 
+2022-09-25 17:18:44,733: - goodbye
+2022-09-25 17:18:45,035:error from callback <function on_close at 0x000002563F4CA9D0>: on_close() takes 1 positional argument but 3 were given
+2022-09-25 17:19:12,209:websocket connected
+2022-09-25 17:19:12,745: - goodbye
+2022-09-25 17:19:13,059:error from callback <function on_close at 0x0000018B1D00A9D0>: on_close() takes 1 positional argument but 3 were given
+2022-09-25 17:19:19,173:websocket connected
+2022-09-25 17:21:33,732: - goodbye
+2022-09-25 17:21:34,049:error from callback <function on_close at 0x000002255A0CD9D0>: on_close() takes 1 positional argument but 3 were given
+2022-09-25 17:21:54,938:websocket connected
+2022-09-25 17:22:01,243:The order has been created. Order id:  78515850829
+2022-09-25 17:22:02,188:The order is not filled. Sleep. 
+2022-09-25 17:22:32,448:The order is not filled. Sleep. 
+2022-09-25 17:23:02,709:The order is not filled. Sleep. 
+2022-09-25 17:23:32,984:The order is not filled. Sleep. 
+2022-09-25 17:24:03,245:The order is not filled. Sleep. 
+2022-09-25 17:24:33,507:The order is not filled. Sleep. 
+2022-09-25 17:25:03,993:The order is not filled. Sleep. 
+2022-09-25 17:25:14,852: - goodbye
+2022-09-25 17:25:15,495:error from callback <function on_close at 0x000001A43A5499D0>: on_close() takes 1 positional argument but 3 were given
+2022-09-25 17:25:23,676:websocket connected
+2022-09-25 17:28:49,503: - goodbye
+2022-09-25 17:28:49,833:error from callback <function on_close at 0x0000019A34D6E9D0>: on_close() takes 1 positional argument but 3 were given
+2022-09-25 17:28:57,433:websocket connected
+2022-09-25 17:29:04,182: - goodbye
+2022-09-25 17:29:04,463:error from callback <function on_close at 0x000001F71FB8A9D0>: on_close() takes 1 positional argument but 3 were given
+2022-09-25 17:32:21,650:websocket connected
+2022-09-25 17:33:01,486:The order has been created. Order id:  78517767434
+2022-09-25 17:33:01,764:The order is not filled. Sleep. 
+2022-09-25 17:33:32,036:The order is not filled. Sleep. 
+2022-09-25 17:34:02,301:The order is not filled. Sleep. 
+2022-09-25 17:34:32,676:The order is not filled. Sleep. 
+2022-09-25 17:34:42,335: - goodbye
+2022-09-25 17:34:42,652:error from callback <function on_close at 0x000001ECC54CE9D0>: on_close() takes 1 positional argument but 3 were given
+2022-09-25 17:34:49,526:websocket connected
+2022-09-25 17:35:01,721:The order has been created. Order id:  78518031376
+2022-09-25 17:35:02,026:The order has been filled. Order id:  78518031376
+2022-09-25 17:36:01,708:The order has been created. Order id:  78518161185
+2022-09-25 17:36:01,983:The order has been filled. Order id:  78518161185
+2022-09-25 17:36:15,407: - goodbye
+2022-09-25 17:36:15,713:error from callback <function on_close at 0x0000025EA750B9D0>: on_close() takes 1 positional argument but 3 were given
+2022-09-25 17:37:48,041:websocket connected
+2022-09-25 17:38:02,977:The order has been created. Order id:  78518405489
+2022-09-25 17:38:03,918:The order is not filled. Sleep. 
+2022-09-25 17:38:34,177:The order is not filled. Sleep. 
+2022-09-25 17:39:04,525:The order has been filled. Order id:  78518405489
+2022-09-25 17:40:39,073: - goodbye
+2022-09-25 17:40:39,392:error from callback <function on_close at 0x0000022E63C099D0>: on_close() takes 1 positional argument but 3 were given
+2022-09-25 17:47:05,556:websocket connected
+2022-09-25 17:47:11,793: - goodbye
+2022-09-25 17:47:12,097:error from callback <function on_close at 0x000001BCB2A0C9D0>: on_close() takes 1 positional argument but 3 were given
+2022-09-25 17:47:26,917:websocket connected
+2022-09-25 17:48:01,931:The order has been created. Order id:  78519551372
+2022-09-25 17:48:02,203:The order is not filled. Sleep. 
+2022-09-25 17:48:14,144: - goodbye
+2022-09-25 17:48:14,446:error from callback <function on_close at 0x000001E837ACB9D0>: on_close() takes 1 positional argument but 3 were given
+2022-09-25 17:48:21,733:websocket connected
+2022-09-25 17:49:47,837: - goodbye
+2022-09-25 17:49:48,114:error from callback <function on_close at 0x00000295F9BC89D0>: on_close() takes 1 positional argument but 3 were given
+2022-09-25 17:49:53,757:websocket connected
+2022-09-25 17:50:01,972:The order has been created. Order id:  78519789320
+2022-09-25 17:50:02,242:The order is not filled. Sleep. 
+2022-09-25 17:50:32,564:The order is not filled. Sleep. 
+2022-09-25 17:51:02,833:The order is not filled. Sleep. 
+2022-09-25 17:51:33,098:The order is not filled. Sleep. 
+2022-09-25 17:52:03,363:The order is not filled. Sleep. 
+2022-09-25 17:52:33,627:The order is not filled. Sleep. 
+2022-09-25 17:52:55,131: - goodbye
+2022-09-25 17:52:58,203:error from callback <function on_close at 0x000001E42430D9D0>: on_close() takes 1 positional argument but 3 were given
+2022-09-25 17:53:05,193:websocket connected
+2022-09-25 17:54:01,970:The order has been created. Order id:  78520246183
+2022-09-25 17:54:02,227:The order is not filled. Sleep. 
+2022-09-25 17:54:17,486:The order is not filled. Sleep. 
+2022-09-25 17:54:32,791:The order is not filled. Sleep. 
+2022-09-25 17:54:40,039: - goodbye
+2022-09-25 17:54:40,347:error from callback <function on_close at 0x00000188383CD9D0>: on_close() takes 1 positional argument but 3 were given
+2022-09-25 17:54:47,284:websocket connected
+2022-09-25 17:55:02,079:The order has been created. Order id:  78520364827
+2022-09-25 17:55:02,340:The order has been filled. Order id:  78520364827
+2022-09-25 17:55:28,068: - goodbye
+2022-09-25 17:55:28,369:error from callback <function on_close at 0x00000203FB80D9D0>: on_close() takes 1 positional argument but 3 were given
+2022-09-25 17:59:35,956:websocket connected
+2022-09-25 17:59:36,868: - goodbye
+2022-09-25 17:59:37,148:error from callback <function on_close at 0x0000017BAB46F9D0>: on_close() takes 1 positional argument but 3 were given
+2022-09-25 17:59:54,039:websocket connected
+2022-09-25 18:00:03,706:The order has been created. Order id:  78520999637
+2022-09-25 18:03:01,369:The order has been created. Order id:  78521495305
+2022-09-25 18:03:01,692:The order is not filled. Sleep. 
+2022-09-25 18:03:16,954:The order is not filled. Sleep. 
+2022-09-25 18:03:32,216:The order is not filled. Sleep. 
+2022-09-25 18:03:47,480:The order is not filled. Sleep. 
+2022-09-25 18:04:02,747:The order is not filled. Sleep. 
+2022-09-25 18:04:18,013:The order is not filled. Sleep. 
+2022-09-25 18:04:33,276:The order is not filled. Sleep. 
+2022-09-25 18:04:48,542:The order is not filled. Sleep. 
+2022-09-25 18:05:03,827:The order is not filled. Sleep. 
+2022-09-25 18:05:19,095:The order is not filled. Sleep. 
+2022-09-25 18:05:34,369:The order is not filled. Sleep. 
+2022-09-25 18:05:49,630:The order is not filled. Sleep. 
+2022-09-25 18:06:04,905:The order is not filled. Sleep. 
+2022-09-25 18:06:20,174:The order is not filled. Sleep. 
+2022-09-25 18:06:35,470:The order is not filled. Sleep. 
+2022-09-25 18:06:50,735:The order is not filled. Sleep. 
+2022-09-25 18:07:06,000:The order is not filled. Sleep. 
+2022-09-25 18:07:21,272:The order is not filled. Sleep. 
+2022-09-25 18:07:36,547:The order is not filled. Sleep. 
+2022-09-25 18:07:51,815:The order is not filled. Sleep. 
+2022-09-25 18:08:07,138:The order is not filled. Sleep. 
+2022-09-25 18:08:22,400:The order is not filled. Sleep. 
+2022-09-25 18:08:37,664:The order is not filled. Sleep. 
+2022-09-25 18:08:52,926:The order is not filled. Sleep. 
+2022-09-25 18:09:08,187:The order is not filled. Sleep. 
+2022-09-25 18:09:23,481:The order is not filled. Sleep. 
+2022-09-25 18:09:38,740:The order is not filled. Sleep. 
+2022-09-25 18:09:54,119:The order is not filled. Sleep. 
+2022-09-25 18:10:09,382:The order is not filled. Sleep. 
+2022-09-25 18:10:24,647:The order is not filled. Sleep. 
+2022-09-25 18:10:39,943:The order is not filled. Sleep. 
+2022-09-25 18:10:55,206:The order is not filled. Sleep. 
+2022-09-25 18:11:10,471:The order is not filled. Sleep. 
+2022-09-25 18:11:25,737:The order is not filled. Sleep. 
+2022-09-25 18:11:41,104:The order is not filled. Sleep. 
+2022-09-25 18:11:56,369:The order is not filled. Sleep. 
+2022-09-25 18:12:11,646:The order is not filled. Sleep. 
+2022-09-25 18:12:26,908:The order is not filled. Sleep. 
+2022-09-25 18:12:42,177:The order is not filled. Sleep. 
+2022-09-25 18:12:42,875: - goodbye
+2022-09-25 18:12:46,139:error from callback <function on_close at 0x000001AB279CB9D0>: on_close() takes 1 positional argument but 3 were given
+2022-09-25 18:13:01,754:websocket connected
+2022-09-25 18:14:01,347:The order has been created. Order id:  78523300899
+2022-09-25 18:21:13,349: - goodbye
+2022-09-25 18:21:13,675:error from callback <function on_close at 0x000001801530E9D0>: on_close() takes 1 positional argument but 3 were given
+2022-09-25 18:28:55,579:websocket connected
+2022-09-25 18:30:01,078:The order has been created. Order id:  78526225720
+2022-09-25 18:30:07,015:The order is not filled. Sleep. 
+2022-09-25 18:30:22,280:The order is not filled. Sleep. 
+2022-09-25 18:30:37,550:The order is not filled. Sleep. 
+2022-09-25 18:30:52,821:The order is not filled. Sleep. 
+2022-09-25 18:31:08,103:The order is not filled. Sleep. 
+2022-09-25 18:31:23,396:The order is not filled. Sleep. 
+2022-09-25 18:31:38,681:The order is not filled. Sleep. 
+2022-09-25 18:31:53,947:The order is not filled. Sleep. 
+2022-09-25 18:32:09,297:The order is not filled. Sleep. 
+2022-09-25 18:32:24,573:The order is not filled. Sleep. 
+2022-09-25 18:32:40,530:The order is not filled. Sleep. 
+2022-09-25 18:32:55,795:The order is not filled. Sleep. 
+2022-09-25 18:33:11,069:The order is not filled. Sleep. 
+2022-09-25 18:33:16,508: - goodbye
+2022-09-25 18:33:17,495:error from callback <function on_close at 0x0000014DFD9D79D0>: on_close() takes 1 positional argument but 3 were given
+2022-09-25 18:33:23,033:websocket connected
+2022-09-25 18:34:01,381:The order has been created. Order id:  78526774888
+2022-09-25 18:34:06,646:The order is not filled. Sleep. 
+2022-09-25 18:34:21,916:The order is not filled. Sleep. 
+2022-09-25 18:34:37,180:The order is not filled. Sleep. 
+2022-09-25 18:34:52,550:The order is not filled. Sleep. 
+2022-09-25 18:35:07,813:The order is not filled. Sleep. 
+2022-09-25 18:35:23,088:The order is not filled. Sleep. 
+2022-09-25 18:35:38,366:The order is not filled. Sleep. 
+2022-09-25 18:35:53,620:The order is not filled. Sleep. 
+2022-09-25 18:35:55,554: - goodbye
+2022-09-25 18:35:55,857:error from callback <function on_close at 0x000002A6653619D0>: on_close() takes 1 positional argument but 3 were given
+2022-09-25 18:36:01,448:websocket connected
+2022-09-25 18:37:01,474:The order has been created. Order id:  78527122039
+2022-09-25 18:37:06,744:The order is not filled. Sleep. 
+2022-09-25 18:37:22,011:The order has been cancelled. Order id:  78527122039
+2022-09-25 18:38:01,086:The order has been created. Order id:  78527245294
+2022-09-25 18:38:06,353:The order is not filled. Sleep. 
+2022-09-25 18:38:21,622:The order is not filled. Sleep. 
+2022-09-25 18:38:36,891:The order is not filled. Sleep. 
+2022-09-25 18:38:52,170:The order is not filled. Sleep. 
+2022-09-25 18:39:07,433:The order is not filled. Sleep. 
+2022-09-25 18:39:22,773:The order is not filled. Sleep. 
+2022-09-25 18:39:38,026:The order is not filled. Sleep. 
+2022-09-25 18:39:53,309:The order is not filled. Sleep. 
+2022-09-25 18:40:08,590:The order is not filled. Sleep. 
+2022-09-25 18:40:23,877:The order is not filled. Sleep. 
+2022-09-25 18:40:39,148:The order is not filled. Sleep. 
+2022-09-25 18:40:54,442:The order is not filled. Sleep. 
+2022-09-25 18:41:09,713:The order is not filled. Sleep. 
+2022-09-25 18:41:24,968:The order is not filled. Sleep. 
+2022-09-25 18:41:40,241:The order is not filled. Sleep. 
+2022-09-25 18:41:55,525:The order is not filled. Sleep. 
+2022-09-25 18:42:10,792:The order is not filled. Sleep. 
+2022-09-25 18:42:26,113:The order is not filled. Sleep. 
+2022-09-25 18:42:41,391:The order is not filled. Sleep. 
+2022-09-25 18:42:56,652:The order is not filled. Sleep. 
+2022-09-25 18:43:12,003:The order is not filled. Sleep. 
+2022-09-25 18:43:27,260:The order is not filled. Sleep. 
+2022-09-25 18:43:42,533:The order is not filled. Sleep. 
+2022-09-25 18:43:57,805:The order is not filled. Sleep. 
+2022-09-25 18:44:13,126:The order is not filled. Sleep. 
+2022-09-25 18:44:28,382:The order is not filled. Sleep. 
+2022-09-25 18:44:43,641:The order is not filled. Sleep. 
+2022-09-25 18:44:58,910:The order is not filled. Sleep. 
+2022-09-25 18:45:14,235:The order is not filled. Sleep. 
+2022-09-25 18:45:29,488:The order is not filled. Sleep. 
+2022-09-25 18:45:44,749:The order is not filled. Sleep. 
+2022-09-25 18:46:00,027:The order is not filled. Sleep. 
+2022-09-25 18:46:00,834: - goodbye
+2022-09-25 18:46:02,394:error from callback <function on_close at 0x000001FACE0C69D0>: on_close() takes 1 positional argument but 3 were given
+2022-09-26 09:20:09,864:websocket connected
+2022-09-26 09:21:01,266:The order has been created. Order id:  78671856090
+2022-09-26 09:21:06,524:The order is not filled. Sleep. 
+2022-09-26 09:21:21,781:The order is not filled. Sleep. 
+2022-09-26 09:21:37,041:The order has been cancelled. Order id:  78671856090
+2022-09-26 09:22:01,197:The order has been created. Order id:  78672076143
+2022-09-26 09:22:06,458:The order is not filled. Sleep. 
+2022-09-26 09:22:21,721:The order is not filled. Sleep. 
+2022-09-26 09:22:36,978:The order is not filled. Sleep. 
+2022-09-26 09:22:52,236:The order is not filled. Sleep. 
+2022-09-26 09:23:07,493:The order is not filled. Sleep. 
+2022-09-26 09:23:22,758:The order is not filled. Sleep. 
+2022-09-26 09:23:38,019:The order is not filled. Sleep. 
+2022-09-26 09:23:53,298:The order is not filled. Sleep. 
+2022-09-26 09:23:54,206: - goodbye
+2022-09-26 09:23:54,509:error from callback <function on_close at 0x00000221E96D19D0>: on_close() takes 1 positional argument but 3 were given
+2022-09-26 10:20:16,815:websocket connected
+2022-09-26 10:20:33,616: - goodbye
+2022-09-26 10:20:33,913:error from callback <function on_close at 0x000001ED3B21E9D0>: on_close() takes 1 positional argument but 3 were given
+2022-09-26 10:22:15,024:websocket connected
+2022-09-26 10:22:48,956: - goodbye
+2022-09-26 10:22:49,239:error from callback <function on_close at 0x000001F16E14D3A0>: on_close() takes 1 positional argument but 3 were given
+2022-09-26 10:27:56,991:websocket connected
+2022-09-26 10:28:01,832:The order has been created. Order id:  78685147976
+2022-09-26 10:28:07,100:The order is not filled. Sleep. 
+2022-09-26 10:28:22,361:The order is not filled. Sleep. 
+2022-09-26 10:28:37,624:The order is not filled. Sleep. 
+2022-09-26 10:28:52,886:The order is not filled. Sleep. 
+2022-09-26 10:29:08,145:The order has been cancelled. Order id:  78685147976
+2022-09-26 10:29:09,252:The order has been created. Order id:  78685342732
+2022-09-26 10:29:14,514:The order has been cancelled. Order id:  78685342732
+2022-09-26 10:29:14,931: - goodbye
+2022-09-26 10:29:15,251:error from callback <function on_close at 0x000001F8ADACE3A0>: on_close() takes 1 positional argument but 3 were given
+2022-09-26 10:30:47,190:websocket connected
+2022-09-26 10:30:54,756: - goodbye
+2022-09-26 10:30:55,062:error from callback <function on_close at 0x000001E7F00CB3A0>: on_close() takes 1 positional argument but 3 were given
+2022-09-26 10:31:01,243:websocket connected
+2022-09-26 10:31:08,259: - goodbye
+2022-09-26 10:31:08,555:error from callback <function on_close at 0x0000018289D0B3A0>: on_close() takes 1 positional argument but 3 were given
+2022-09-26 10:31:43,418:websocket connected
+2022-09-26 10:37:15,845: - goodbye
+2022-09-26 10:37:16,147:error from callback <function on_close at 0x0000028F973CB3A0>: on_close() takes 1 positional argument but 3 were given
+2022-09-26 10:38:15,636:websocket connected
+2022-09-26 10:38:57,604: - goodbye
+2022-09-26 10:38:57,964:error from callback <function on_close at 0x000001BBFEC8A3A0>: on_close() takes 1 positional argument but 3 were given
+2022-09-26 10:41:48,757:websocket connected
+2022-09-26 10:52:53,778: - goodbye
+2022-09-26 10:52:54,078:error from callback <function on_close at 0x000001EB8864D3A0>: on_close() takes 1 positional argument but 3 were given
+2022-09-26 10:53:00,337:websocket connected
+2022-09-26 10:54:01,493:The order has been created. Order id:  78691203237
+2022-09-26 10:54:06,824:The order has been filled. Order id:  78691203237
+2022-09-26 10:54:06,824:Take profit price is 19452.6||| Stop loss price is 19067.4
+2022-09-26 10:54:07,136:The TP order has been created. Order id:  78691225761
+2022-09-26 10:54:07,394:The SL order has been created. Order id:  78691226777
+2022-09-26 10:56:01,157:The order has been created. Order id:  78691669295
+2022-09-26 10:56:06,433:The order has been filled. Order id:  78691669295
+2022-09-26 10:56:06,433:Take profit price is 19452.6||| Stop loss price is 19067.4
+2022-09-26 10:56:06,691:The TP order has been created. Order id:  78691695117
+2022-09-26 10:56:06,949:The SL order has been created. Order id:  78691696250
+2022-09-26 10:56:53,943: - goodbye
+2022-09-26 10:56:54,568:error from callback <function on_close at 0x00000207EA78C3A0>: on_close() takes 1 positional argument but 3 were given
+2022-09-26 12:00:26,076:Gain balance is set to:10.7689659735
+2022-09-26 12:00:26,077:<class 'float'>
+2022-09-26 12:00:27,288:websocket connected
+2022-09-26 12:00:40,603: - goodbye
+2022-09-26 12:00:40,890:error from callback <function on_close at 0x00000175F238A3A0>: on_close() takes 1 positional argument but 3 were given
+2022-09-26 12:01:00,633:Gain balance is set to:12.2
+2022-09-26 12:01:00,634:<class 'float'>
+2022-09-26 12:01:01,815:websocket connected
+2022-09-26 12:02:01,120:The order has been created. Order id:  78705871624
+2022-09-26 12:02:07,065:The order has been filled. Order id:  78705871624
+2022-09-26 12:02:07,066:Take profit price is 19452.6||| Stop loss price is 19067.4
+2022-09-26 12:02:07,329:The TP order has been created. Order id:  78705893420
+2022-09-26 12:02:07,587:The SL order has been created. Order id:  78705894574
+2022-09-26 12:03:25,789: - goodbye
+2022-09-26 12:03:26,075:error from callback <function on_close at 0x00000259232CA3A0>: on_close() takes 1 positional argument but 3 were given
+2022-09-26 12:06:02,786:Gain balance is set to:21.0
+2022-09-26 12:06:03,980:websocket connected
+2022-09-26 12:07:01,861:The order has been created. Order id:  78706799619
+2022-09-26 12:07:07,120:The order has been filled. Order id:  78706799619
+2022-09-26 12:07:07,120:Take profit price is 19452.6||| Stop loss price is 19067.4
+2022-09-26 12:07:07,375:The TP order has been created. Order id:  78706820258
+2022-09-26 12:07:07,635:The SL order has been created. Order id:  78706820743
+2022-09-26 12:08:14,954: - goodbye
+2022-09-26 12:08:15,235:error from callback <function on_close at 0x0000027D90B0A3A0>: on_close() takes 1 positional argument but 3 were given
+2022-09-26 12:09:08,736:Gain balance is set to:21.0
+2022-09-26 12:09:09,993:websocket connected
+2022-09-26 12:10:00,923:The order QTY is set to: 0.002
+2022-09-26 12:10:01,189:The order has been created. Order id:  78707298796
+2022-09-26 12:10:06,448:The order has been filled. Order id:  78707298796
+2022-09-26 12:10:06,449:Take profit price is 19452.6||| Stop loss price is 19067.4
+2022-09-26 12:10:06,706:The TP order has been created. Order id:  78707319679
+2022-09-26 12:10:06,966:The SL order has been created. Order id:  78707320311
+2022-09-26 12:11:00,837:The order QTY is set to: 0.002
+2022-09-26 12:11:01,127:The order has been created. Order id:  78707481890
+2022-09-26 12:11:06,381:The order has been filled. Order id:  78707481890
+2022-09-26 12:11:06,382:Take profit price is 19452.6||| Stop loss price is 19067.4
+2022-09-26 12:11:06,637:The TP order has been created. Order id:  78707499203
+2022-09-26 12:11:29,688: - goodbye
+2022-09-26 12:11:30,006:error from callback <function on_close at 0x00000147D980D3A0>: on_close() takes 1 positional argument but 3 were given
+2022-09-26 12:13:26,873:Gain balance is set to:21.0
+2022-09-26 12:13:28,103:websocket connected
+2022-09-26 12:14:46,605: - goodbye
+2022-09-26 12:14:46,991:error from callback <function on_close at 0x000002ADBD61D9D0>: on_close() takes 1 positional argument but 3 were given
+2022-09-26 12:15:38,612:Gain balance is set to:18.0
+2022-09-26 12:15:39,899:websocket connected
+2022-09-26 12:16:05,416: - goodbye
+2022-09-26 12:16:05,711:error from callback <function on_close at 0x000002391792E9D0>: on_close() takes 1 positional argument but 3 were given
+2022-09-26 12:16:59,254:Gain balance is set to:14.7
+2022-09-26 12:17:00,550:websocket connected
+2022-09-26 12:18:20,258: - goodbye
+2022-09-26 12:18:20,560:error from callback <function on_close at 0x000001D6828DC9D0>: on_close() takes 1 positional argument but 3 were given
+2022-09-26 12:19:03,218:Gain balance is set to:14.7
+2022-09-26 12:19:04,508:websocket connected
+2022-09-26 12:21:46,071: - goodbye
+2022-09-26 12:21:46,377:error from callback <function on_close at 0x000001F055BC79D0>: on_close() takes 1 positional argument but 3 were given
+2022-09-26 12:21:59,189:Gain balance is set to:14.0
+2022-09-26 12:22:00,789:websocket connected
+2022-09-26 12:24:12,372: - goodbye
+2022-09-26 12:24:12,758:error from callback <function on_close at 0x00000273B91D19D0>: on_close() takes 1 positional argument but 3 were given
+2022-09-26 12:24:23,882:Gain balance is set to:13.0
+2022-09-26 12:24:25,493:websocket connected
+2022-09-26 12:26:24,727: - goodbye
+2022-09-26 12:26:25,118:error from callback <function on_close at 0x000001312CB4B9D0>: on_close() takes 1 positional argument but 3 were given
+2022-09-26 12:26:35,257:Gain balance is set to:10.5436957815
+2022-09-26 12:26:36,859:websocket connected
+2022-09-26 12:27:00,974:The order QTY is set to: 0.002
+2022-09-26 12:27:01,232:The order has been created. Order id:  78710661964
+2022-09-26 12:27:06,493:The order has been filled. Order id:  78710661964
+2022-09-26 12:27:06,493:Take profit price is 19452.6||| Stop loss price is 19144.4
+2022-09-26 12:27:06,757:The TP order has been created. Order id:  78710687096
+2022-09-26 12:28:02,211:The order QTY is set to: 0.002
+2022-09-26 12:28:02,473:The order has been created. Order id:  78710849774
+2022-09-26 12:28:07,732:The order has been filled. Order id:  78710849774
+2022-09-26 12:28:07,732:Take profit price is 19452.6||| Stop loss price is 19144.4
+2022-09-26 12:28:07,992:The TP order has been created. Order id:  78710875264
+2022-09-26 12:28:20,721: - goodbye
+2022-09-26 12:28:21,110:error from callback <function on_close at 0x000001B44ACC79D0>: on_close() takes 1 positional argument but 3 were given
+2022-09-26 12:33:52,783:Gain balance is set to:14.0
+2022-09-26 12:33:54,416:websocket connected
+2022-09-26 12:36:29,234: - goodbye
+2022-09-26 12:36:29,621:error from callback <function on_close at 0x000002CD37EBC9D0>: on_close() takes 1 positional argument but 3 were given
+2022-09-26 12:36:40,258:Gain balance is set to:14.0
+2022-09-26 12:36:41,835:websocket connected
+2022-09-26 12:38:01,923: - goodbye
+2022-09-26 12:38:02,308:error from callback <function on_close at 0x0000020EF67D19D0>: on_close() takes 1 positional argument but 3 were given
+2022-09-26 12:38:10,834:Gain balance is set to:14.0
+2022-09-26 12:38:12,469:websocket connected
+2022-09-26 12:39:53,286:Gain balance is set to:14.0
+2022-09-26 12:39:54,533:websocket connected
+2022-09-26 12:42:54,287: - goodbye
+2022-09-26 12:42:54,586:error from callback <function on_close at 0x00000266860489D0>: on_close() takes 1 positional argument but 3 were given
+2022-09-26 12:43:07,100:Gain balance is set to:14.0
+2022-09-26 12:43:08,713:websocket connected
+2022-09-26 12:44:45,500: - goodbye
+2022-09-26 12:44:45,886:error from callback <function on_close at 0x000001FC41B109D0>: on_close() takes 1 positional argument but 3 were given
+2022-09-26 12:45:05,439:Gain balance is set to:14.0
+2022-09-26 12:45:07,036:websocket connected
+2022-09-26 12:46:15,781: - goodbye
+2022-09-26 12:46:16,161:error from callback <function on_close at 0x000002369AE8D9D0>: on_close() takes 1 positional argument but 3 were given
+2022-09-26 12:46:48,956:Gain balance is set to:13.0
+2022-09-26 12:46:50,611:websocket connected
+2022-09-26 12:47:01,362:The order QTY is set to: 0
+2022-09-26 12:48:00,934:The order QTY is set to: 0
+2022-09-26 12:48:29,542: - goodbye
+2022-09-26 12:48:29,936:error from callback <function on_close at 0x00000262E7BD19D0>: on_close() takes 1 positional argument but 3 were given
+2022-09-26 12:48:40,158:Gain balance is set to:13.0
+2022-09-26 12:48:41,436:websocket connected
+2022-09-26 12:49:01,520:The order QTY is set to: 0
+2022-09-26 12:50:00,852:The order QTY is set to: 0
+2022-09-26 12:50:16,846: - goodbye
+2022-09-26 12:50:17,146:error from callback <function on_close at 0x0000015065B4F9D0>: on_close() takes 1 positional argument but 3 were given
+2022-09-26 12:50:31,050:Gain balance is set to:13.02
+2022-09-26 12:50:32,293:websocket connected
+2022-09-26 12:51:00,939:The order QTY is set to: 0.015
+2022-09-26 12:51:01,208:The order has been created. Order id:  78715310730
+2022-09-26 12:51:07,140:The order is not filled. Sleep. 
+2022-09-26 12:51:22,397:The order is not filled. Sleep. 
+2022-09-26 12:51:37,658:The order is not filled. Sleep. 
+2022-09-26 12:51:52,920:The order is not filled. Sleep. 
+2022-09-26 12:52:08,188:The order is not filled. Sleep. 
+2022-09-26 12:52:23,447:The order is not filled. Sleep. 
+2022-09-26 12:52:38,703:The order is not filled. Sleep. 
+2022-09-26 12:52:53,969:The order is not filled. Sleep. 
+2022-09-26 12:53:09,227:The order is not filled. Sleep. 
+2022-09-26 12:53:24,492:The order is not filled. Sleep. 
+2022-09-26 12:53:39,753:The order is not filled. Sleep. 
+2022-09-26 12:53:55,026:The order is not filled. Sleep. 
+2022-09-26 12:54:10,978:The order is not filled. Sleep. 
+2022-09-26 12:54:26,236:The order is not filled. Sleep. 
+2022-09-26 12:54:41,496:The order is not filled. Sleep. 
+2022-09-26 12:54:57,435:The order has been cancelled. Order id:  78715310730
+2022-09-26 12:54:58,284:The order QTY is set to: 0.015
+2022-09-26 12:54:58,548:The order has been created. Order id:  78715997607
+2022-09-26 12:55:03,809:The order is not filled. Sleep. 
+2022-09-26 12:55:19,118:The order is not filled. Sleep. 
+2022-09-26 12:55:28,447: - goodbye
+2022-09-26 12:55:28,753:error from callback <function on_close at 0x000001A0372BE9D0>: on_close() takes 1 positional argument but 3 were given
+2022-09-26 13:02:37,168:Gain balance is set to:10.5075734295
+2022-09-26 13:02:38,432:websocket connected
+2022-09-26 13:03:00,319:USDT balance is: 10.00721279
+2022-09-26 13:03:00,593:Opened positions: ['0.0', '0.000', '0.00000000']
+2022-09-26 13:03:00,855:Opened orders: []
+2022-09-26 13:03:00,855:The order QTY is set to: 0.002
+2022-09-26 13:03:01,135:The order has been created. Order id:  78717556211
+2022-09-26 13:03:06,397:The order is not filled. Sleep. 
+2022-09-26 13:03:13,151: - goodbye
+2022-09-26 13:03:13,451:error from callback <function on_close at 0x000001295698D9D0>: on_close() takes 1 positional argument but 3 were given
+2022-09-26 13:05:41,518:Gain balance is set to:10.5075734295
+2022-09-26 13:05:42,773:websocket connected
+2022-09-26 13:06:00,343:USDT balance is: 10.00721279
+2022-09-26 13:06:00,614:Opened positions: ['0.0', '0.000', '0.00000000']
+2022-09-26 13:06:00,868:Opened orders: []
+2022-09-26 13:06:00,868:The order QTY is set to: 0.002
+2022-09-26 13:06:01,127:The order has been created. Order id:  78718090198
+2022-09-26 13:06:07,075:The order is not filled. Sleep. 
+2022-09-26 13:06:21,476: - goodbye
+2022-09-26 13:06:21,782:error from callback <function on_close at 0x0000019F496AE940>: on_close() takes 1 positional argument but 3 were given
+2022-09-26 13:35:42,871:Gain balance is set to:10.5075734295
+2022-09-26 13:35:44,496:websocket connected
+2022-09-26 13:36:00,324:USDT balance is: 10.00721279
+2022-09-26 13:36:00,586:Opened positions: ['0.0', '0.000', '0.00000000']
+2022-09-26 13:36:00,840:Opened orders: []
+2022-09-26 13:36:00,864:The trend changed to the uptrend.
+2022-09-26 13:36:01,125:The START is TRUE. The QTY is set to : 0.002
+2022-09-26 13:36:01,125:The order QTY is set to: 0.002
+2022-09-26 13:36:01,386:The order has been created. Order id:  78725321504
+2022-09-26 13:36:06,642:Cheking the order status
+2022-09-26 13:36:06,642:The order has been filled. Order id:  78725321504
+2022-09-26 13:36:06,642:Take profit price is 18987.7||| Stop loss price is 18742.6
+2022-09-26 13:36:06,902:The TP order has been created. Order id:  78725350373
+2022-09-26 13:36:07,843:The SL order has been created. Order id:  78725354254
+2022-09-26 13:36:07,843:We have received the buy signal. Creating an order with price: 18855.80
+2022-09-26 13:36:54,038: - goodbye
+2022-09-26 13:36:54,428:error from callback <function on_close at 0x000001FD97B52940>: on_close() takes 1 positional argument but 3 were given
+2022-09-26 13:38:00,129:Gain balance is set to:10.4435112495
+2022-09-26 13:38:01,380:websocket connected
+2022-09-26 13:40:00,368:USDT balance is: 9.94620119
+2022-09-26 13:40:00,628:Opened positions: ['0.0', '0.000', '0.00000000']
+2022-09-26 13:40:01,545:Opened orders: []
+2022-09-26 13:50:00,418:USDT balance is: 9.94620119
+2022-09-26 13:50:01,343:Opened positions: ['0.0', '0.000', '0.00000000']
+2022-09-26 13:50:01,592:Opened orders: []
+2022-09-26 13:55:55,502: - goodbye
+2022-09-26 13:55:55,813:error from callback <function on_close at 0x000001D3D704F940>: on_close() takes 1 positional argument but 3 were given
+2022-09-26 13:58:03,069:Gain balance is set to:10.4435112495
+2022-09-26 13:58:04,330:websocket connected
+2022-09-26 14:00:00,352:USDT balance is: 9.94620119
+2022-09-26 14:00:01,615:Opened positions: ['0.0', '0.000', '0.00000000']
+2022-09-26 14:00:02,877:Opened orders: []
+2022-09-26 14:10:00,476:USDT balance is: 9.94620119
+2022-09-26 14:10:02,424:Opened positions: ['0.0', '0.000', '0.00000000']
+2022-09-26 14:10:04,346:Opened orders: []
+2022-09-26 14:20:00,420:USDT balance is: 9.94620119
+2022-09-26 14:20:01,688:Opened positions: ['0.0', '0.000', '0.00000000']
+2022-09-26 14:20:03,623:Opened orders: []
+2022-09-26 14:20:13,469: - goodbye
+2022-09-26 14:20:13,772:error from callback <function on_close at 0x000002231B1EF940>: on_close() takes 1 positional argument but 3 were given
+2022-09-26 14:20:24,285:Gain balance is set to:10.4435112495
+2022-09-26 14:20:25,553:websocket connected
+2022-09-26 14:26:03,997: - goodbye
+2022-09-26 14:26:04,296:error from callback <function on_close at 0x000001BFC2098940>: on_close() takes 1 positional argument but 3 were given
+2022-09-26 14:26:55,795:Gain balance is set to:10.4435112495
+2022-09-26 14:26:57,389:websocket connected
+2022-09-26 14:26:59,997:Getting the USDT balance
+2022-09-26 14:27:00,261:USDT balance is: 9.94620119
+2022-09-26 14:27:01,520:Opened positions: ['0.0', '0.000', '0.00000000']
+2022-09-26 14:27:02,779:Opened orders: []
+2022-09-26 14:27:59,977:Getting the USDT balance
+2022-09-26 14:28:00,239:USDT balance is: 9.94620119
+2022-09-26 14:28:01,498:Opened positions: ['0.0', '0.000', '0.00000000']
+2022-09-26 14:28:02,761:Opened orders: []
+2022-09-26 14:29:00,061:Getting the USDT balance
+2022-09-26 14:29:00,339:USDT balance is: 9.94620119
+2022-09-26 14:29:01,602:Opened positions: ['0.0', '0.000', '0.00000000']
+2022-09-26 14:29:02,863:Opened orders: []
+2022-09-26 14:29:16,554: - goodbye
+2022-09-26 14:29:16,940:error from callback <function on_close at 0x000001AAA4EB4940>: on_close() takes 1 positional argument but 3 were given
+2022-09-26 14:29:28,351:Gain balance is set to:10.4435112495
+2022-09-26 14:29:29,943:websocket connected
+2022-09-26 14:30:00,007:Getting the USDT balance
+2022-09-26 14:30:00,273:USDT balance is: 9.94620119
+2022-09-26 14:30:00,531:Opened positions: ['0.0', '0.000', '0.00000000']
+2022-09-26 14:30:00,838:Opened orders: []
+2022-09-26 14:31:00,036:Getting the USDT balance
+2022-09-26 14:31:00,300:USDT balance is: 9.94620119
+2022-09-26 14:31:00,573:Opened positions: ['0.0', '0.000', '0.00000000']
+2022-09-26 14:31:01,505:Opened orders: []
+2022-09-26 14:31:59,993:Getting the USDT balance
+2022-09-26 14:32:00,256:USDT balance is: 9.94620119
+2022-09-26 14:32:01,197:Opened positions: ['0.0', '0.000', '0.00000000']
+2022-09-26 14:32:02,130:Opened orders: []
+2022-09-26 14:32:59,986:Getting the USDT balance
+2022-09-26 14:33:00,251:USDT balance is: 9.94620119
+2022-09-26 14:33:01,193:Opened positions: ['0.0', '0.000', '0.00000000']
+2022-09-26 14:33:02,161:Opened orders: []
+2022-09-26 14:33:02,174:The trend changed to the uptrend.
+2022-09-26 14:33:02,436:The START is TRUE. The QTY is set to : 0.002
+2022-09-26 14:33:02,437:The order QTY is set to: 0.002
+2022-09-26 14:33:03,388:The order has been created. Order id:  78736780737
+2022-09-26 14:33:08,681:Cheking the order status
+2022-09-26 14:33:08,681:The order is not filled. Sleep. 
+2022-09-26 14:33:28,940:Cheking the order status
+2022-09-26 14:33:28,940:The order is not filled. Sleep. 
+2022-09-26 14:33:49,200:Cheking the order status
+2022-09-26 14:33:49,200:The order is not filled. Sleep. 
+2022-09-26 14:34:09,458:Cheking the order status
+2022-09-26 14:34:09,459:The order is not filled. Sleep. 
+2022-09-26 14:34:29,720:Cheking the order status
+2022-09-26 14:34:29,721:The order has been filled. Order id:  78736780737
+2022-09-26 14:34:29,721:Take profit price is 18788.7||| Stop loss price is 18920.7
+2022-09-26 14:34:29,983:The TP order has been created. Order id:  78737102485
+2022-09-26 14:34:30,295:Getting the USDT balance
+2022-09-26 14:34:30,553:USDT balance is: 9.93865551
+2022-09-26 14:34:30,825:Opened positions: ['18864.2', '-0.002', '-0.00301768']
+2022-09-26 14:34:31,123:Opened orders: [{'orderId': 78737102485, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'Dpl3r1HvpqsViPYycqNdZL', 'price': '18788.70', 'avgPrice': '0', 'origQty': '0.002', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'time': 1664195670047, 'updateTime': 1664195670048}]
+2022-09-26 14:34:59,995:Getting the USDT balance
+2022-09-26 14:35:00,261:USDT balance is: 9.90895831
+2022-09-26 14:35:00,523:Opened positions: ['0.0', '0.000', '0.00000000']
+2022-09-26 14:35:01,140:Opened orders: [{'orderId': 78737102485, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'Dpl3r1HvpqsViPYycqNdZL', 'price': '18788.70', 'avgPrice': '0', 'origQty': '0.002', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'time': 1664195670047, 'updateTime': 1664195670048}]
+2022-09-26 14:35:59,982:Getting the USDT balance
+2022-09-26 14:36:00,250:USDT balance is: 9.90895831
+2022-09-26 14:36:00,512:Opened positions: ['0.0', '0.000', '0.00000000']
+2022-09-26 14:36:00,775:Opened orders: [{'orderId': 78737102485, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'Dpl3r1HvpqsViPYycqNdZL', 'price': '18788.70', 'avgPrice': '0', 'origQty': '0.002', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'time': 1664195670047, 'updateTime': 1664195670048}]
+2022-09-26 14:36:49,298: - goodbye
+2022-09-26 14:36:49,673:error from callback <function on_close at 0x0000021D02194940>: on_close() takes 1 positional argument but 3 were given
+2022-09-26 14:44:58,602:Gain balance is set to:10.404406225499999
+2022-09-26 14:44:59,868:websocket connected
+2022-09-26 14:45:00,098:Getting the USDT balance
+2022-09-26 14:45:00,365:USDT balance is: 9.90895831
+2022-09-26 14:45:00,625:Opened positions: ['0.0', '0.000', '0.00000000']
+2022-09-26 14:45:00,885:Opened orders: [{'orderId': 78737102485, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'Dpl3r1HvpqsViPYycqNdZL', 'price': '18788.70', 'avgPrice': '0', 'origQty': '0.002', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'time': 1664195670047, 'updateTime': 1664195670048}]
+2022-09-26 14:45:59,994:Getting the USDT balance
+2022-09-26 14:46:00,254:USDT balance is: 9.90895831
+2022-09-26 14:46:00,512:Opened positions: ['0.0', '0.000', '0.00000000']
+2022-09-26 14:46:01,000:Opened orders: []
+2022-09-26 14:46:59,984:Getting the USDT balance
+2022-09-26 14:47:00,244:USDT balance is: 9.90895831
+2022-09-26 14:47:00,507:Opened positions: ['0.0', '0.000', '0.00000000']
+2022-09-26 14:47:01,037:Opened orders: []
+2022-09-26 14:47:59,994:Getting the USDT balance
+2022-09-26 14:48:00,925:USDT balance is: 9.90895831
+2022-09-26 14:48:01,185:Opened positions: ['0.0', '0.000', '0.00000000']
+2022-09-26 14:48:02,126:Opened orders: []
+2022-09-26 14:48:59,967:Getting the USDT balance
+2022-09-26 14:49:00,231:USDT balance is: 9.90895831
+2022-09-26 14:49:01,160:Opened positions: ['0.0', '0.000', '0.00000000']
+2022-09-26 14:49:02,092:Opened orders: []
+2022-09-26 14:50:00,001:Getting the USDT balance
+2022-09-26 14:50:00,261:USDT balance is: 9.90895831
+2022-09-26 14:50:00,520:Opened positions: ['0.0', '0.000', '0.00000000']
+2022-09-26 14:50:00,945:Opened orders: []
+2022-09-26 14:51:00,017:Getting the USDT balance
+2022-09-26 14:51:00,948:USDT balance is: 9.90895831
+2022-09-26 14:51:01,884:Opened positions: ['0.0', '0.000', '0.00000000']
+2022-09-26 14:51:02,135:Opened orders: []
+2022-09-26 14:51:59,982:Getting the USDT balance
+2022-09-26 14:52:00,246:USDT balance is: 9.90895831
+2022-09-26 14:52:00,507:Opened positions: ['0.0', '0.000', '0.00000000']
+2022-09-26 14:52:01,159:Opened orders: []
+2022-09-26 14:52:59,966:Getting the USDT balance
+2022-09-26 14:53:00,225:USDT balance is: 9.90895831
+2022-09-26 14:53:00,483:Opened positions: ['0.0', '0.000', '0.00000000']
+2022-09-26 14:53:01,093:Opened orders: []
+2022-09-26 14:54:00,019:Getting the USDT balance
+2022-09-26 14:54:00,365:USDT balance is: 9.90895831
+2022-09-26 14:54:00,654:Opened positions: ['0.0', '0.000', '0.00000000']
+2022-09-26 14:54:00,958:Opened orders: []
+2022-09-26 14:54:59,974:Getting the USDT balance
+2022-09-26 14:55:00,245:USDT balance is: 9.90895831
+2022-09-26 14:55:00,508:Opened positions: ['0.0', '0.000', '0.00000000']
+2022-09-26 14:55:01,240:Opened orders: []
+2022-09-26 14:55:59,978:Getting the USDT balance
+2022-09-26 14:56:00,914:USDT balance is: 9.90895831
+2022-09-26 14:56:01,175:Opened positions: ['0.0', '0.000', '0.00000000']
+2022-09-26 14:56:02,129:Opened orders: []
+2022-09-26 14:56:59,999:Getting the USDT balance
+2022-09-26 14:57:00,942:USDT balance is: 9.90895831
+2022-09-26 14:57:01,205:Opened positions: ['0.0', '0.000', '0.00000000']
+2022-09-26 14:57:01,456:Opened orders: []
+2022-09-26 14:58:00,118:Getting the USDT balance
+2022-09-26 14:58:01,056:USDT balance is: 9.90895831
+2022-09-26 14:58:01,315:Opened positions: ['0.0', '0.000', '0.00000000']
+2022-09-26 14:58:02,240:Opened orders: []
+2022-09-26 14:59:00,050:Getting the USDT balance
+2022-09-26 14:59:00,317:USDT balance is: 9.90895831
+2022-09-26 14:59:01,254:Opened positions: ['0.0', '0.000', '0.00000000']
+2022-09-26 14:59:01,507:Opened orders: []
+2022-09-26 15:00:00,523:Getting the USDT balance
+2022-09-26 15:00:00,790:USDT balance is: 9.90895831
+2022-09-26 15:00:01,060:Opened positions: ['0.0', '0.000', '0.00000000']
+2022-09-26 15:00:01,324:Opened orders: []
+2022-09-26 15:00:01,342:The trend changed to the uptrend.
+2022-09-26 15:00:01,599:The START is TRUE. The QTY is set to : 0.002
+2022-09-26 15:00:01,600:The order QTY is set to: 0.002
+2022-09-26 15:00:01,914:The order has been created. Order id:  78743362135
+2022-09-26 15:00:07,852:Cheking the order status
+2022-09-26 15:00:07,852:The order is not filled. Sleep. 
+2022-09-26 15:00:28,107:Cheking the order status
+2022-09-26 15:00:28,107:The order is not filled. Sleep. 
+2022-09-26 15:00:48,366:Cheking the order status
+2022-09-26 15:00:48,367:The order has been filled. Order id:  78743362135
+2022-09-26 15:00:48,367:Take profit price is 19009.0||| Stop loss price is 19142.6
+2022-09-26 15:00:48,626:The TP order has been created. Order id:  78743550143
+2022-09-26 15:00:49,557:The SL order has been created. Order id:  78743552388
+2022-09-26 15:00:49,557:We have received the sell signal. Creating an order with price: 19085.40
+2022-09-26 15:00:59,981:Getting the USDT balance
+2022-09-26 15:01:00,241:USDT balance is: 9.90132415
+2022-09-26 15:01:00,500:Opened positions: ['19085.4', '-0.002', '-0.04040000']
+2022-09-26 15:01:00,972:Opened orders: [{'orderId': 78743550143, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'fcTotan0FaIqL7ptZ6bDYd', 'price': '19009', 'avgPrice': '0', 'origQty': '0.002', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'time': 1664197248707, 'updateTime': 1664197248707}, {'orderId': 78743552388, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': '9yz4kxRNdRSnWkisU88v3r', 'price': '0', 'avgPrice': '0', 'origQty': '0.002', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'STOP_MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '19142.60', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'STOP_MARKET', 'time': 1664197249639, 'updateTime': 1664197249639}]
+2022-09-26 15:01:59,973:Getting the USDT balance
+2022-09-26 15:02:00,231:USDT balance is: 9.90132415
+2022-09-26 15:02:00,489:Opened positions: ['19085.4', '-0.002', '-0.02012302']
+2022-09-26 15:02:00,953:Opened orders: [{'orderId': 78743550143, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'fcTotan0FaIqL7ptZ6bDYd', 'price': '19009', 'avgPrice': '0', 'origQty': '0.002', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'time': 1664197248707, 'updateTime': 1664197248707}, {'orderId': 78743552388, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': '9yz4kxRNdRSnWkisU88v3r', 'price': '0', 'avgPrice': '0', 'origQty': '0.002', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'STOP_MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '19142.60', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'STOP_MARKET', 'time': 1664197249639, 'updateTime': 1664197249639}]
+2022-09-26 15:02:59,972:Getting the USDT balance
+2022-09-26 15:03:00,233:USDT balance is: 9.90132415
+2022-09-26 15:03:00,500:Opened positions: ['19085.4', '-0.002', '-0.05292391']
+2022-09-26 15:03:01,246:Opened orders: [{'orderId': 78743550143, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'fcTotan0FaIqL7ptZ6bDYd', 'price': '19009', 'avgPrice': '0', 'origQty': '0.002', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'time': 1664197248707, 'updateTime': 1664197248707}, {'orderId': 78743552388, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': '9yz4kxRNdRSnWkisU88v3r', 'price': '0', 'avgPrice': '0', 'origQty': '0.002', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'STOP_MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '19142.60', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'STOP_MARKET', 'time': 1664197249639, 'updateTime': 1664197249639}]
+2022-09-26 15:03:59,983:Getting the USDT balance
+2022-09-26 15:04:00,241:USDT balance is: 9.90132415
+2022-09-26 15:04:00,499:Opened positions: ['19085.4', '-0.002', '0.03988651']
+2022-09-26 15:04:01,080:Opened orders: [{'orderId': 78743550143, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'fcTotan0FaIqL7ptZ6bDYd', 'price': '19009', 'avgPrice': '0', 'origQty': '0.002', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'time': 1664197248707, 'updateTime': 1664197248707}, {'orderId': 78743552388, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': '9yz4kxRNdRSnWkisU88v3r', 'price': '0', 'avgPrice': '0', 'origQty': '0.002', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'STOP_MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '19142.60', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'STOP_MARKET', 'time': 1664197249639, 'updateTime': 1664197249639}]
+2022-09-26 15:04:59,973:Getting the USDT balance
+2022-09-26 15:05:00,251:USDT balance is: 9.90132415
+2022-09-26 15:05:00,512:Opened positions: ['19085.4', '-0.002', '0.03078010']
+2022-09-26 15:05:01,045:Opened orders: [{'orderId': 78743550143, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'fcTotan0FaIqL7ptZ6bDYd', 'price': '19009', 'avgPrice': '0', 'origQty': '0.002', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'time': 1664197248707, 'updateTime': 1664197248707}, {'orderId': 78743552388, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': '9yz4kxRNdRSnWkisU88v3r', 'price': '0', 'avgPrice': '0', 'origQty': '0.002', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'STOP_MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '19142.60', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'STOP_MARKET', 'time': 1664197249639, 'updateTime': 1664197249639}]
+2022-09-26 15:05:59,966:Getting the USDT balance
+2022-09-26 15:06:00,225:USDT balance is: 9.90132415
+2022-09-26 15:06:00,481:Opened positions: ['19085.4', '-0.002', '0.02640000']
+2022-09-26 15:06:00,970:Opened orders: [{'orderId': 78743550143, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'fcTotan0FaIqL7ptZ6bDYd', 'price': '19009', 'avgPrice': '0', 'origQty': '0.002', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'time': 1664197248707, 'updateTime': 1664197248707}, {'orderId': 78743552388, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': '9yz4kxRNdRSnWkisU88v3r', 'price': '0', 'avgPrice': '0', 'origQty': '0.002', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'STOP_MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '19142.60', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'STOP_MARKET', 'time': 1664197249639, 'updateTime': 1664197249639}]
+2022-09-26 15:06:59,980:Getting the USDT balance
+2022-09-26 15:07:00,242:USDT balance is: 9.90132415
+2022-09-26 15:07:00,500:Opened positions: ['19085.4', '-0.002', '0.06439411']
+2022-09-26 15:07:01,193:Opened orders: [{'orderId': 78743550143, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'fcTotan0FaIqL7ptZ6bDYd', 'price': '19009', 'avgPrice': '0', 'origQty': '0.002', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'time': 1664197248707, 'updateTime': 1664197248707}, {'orderId': 78743552388, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': '9yz4kxRNdRSnWkisU88v3r', 'price': '0', 'avgPrice': '0', 'origQty': '0.002', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'STOP_MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '19142.60', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'STOP_MARKET', 'time': 1664197249639, 'updateTime': 1664197249639}]
+2022-09-26 15:08:00,003:Getting the USDT balance
+2022-09-26 15:08:00,273:USDT balance is: 9.90132415
+2022-09-26 15:08:00,529:Opened positions: ['19085.4', '-0.002', '0.11247779']
+2022-09-26 15:08:01,077:Opened orders: [{'orderId': 78743550143, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'fcTotan0FaIqL7ptZ6bDYd', 'price': '19009', 'avgPrice': '0', 'origQty': '0.002', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'time': 1664197248707, 'updateTime': 1664197248707}, {'orderId': 78743552388, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': '9yz4kxRNdRSnWkisU88v3r', 'price': '0', 'avgPrice': '0', 'origQty': '0.002', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'STOP_MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '19142.60', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'STOP_MARKET', 'time': 1664197249639, 'updateTime': 1664197249639}]
+2022-09-26 15:08:59,974:Getting the USDT balance
+2022-09-26 15:09:00,231:USDT balance is: 9.90132415
+2022-09-26 15:09:00,493:Opened positions: ['19085.4', '-0.002', '0.10080000']
+2022-09-26 15:09:01,021:Opened orders: [{'orderId': 78743550143, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'fcTotan0FaIqL7ptZ6bDYd', 'price': '19009', 'avgPrice': '0', 'origQty': '0.002', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'time': 1664197248707, 'updateTime': 1664197248707}, {'orderId': 78743552388, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': '9yz4kxRNdRSnWkisU88v3r', 'price': '0', 'avgPrice': '0', 'origQty': '0.002', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'STOP_MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '19142.60', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'STOP_MARKET', 'time': 1664197249639, 'updateTime': 1664197249639}]
+2022-09-26 15:09:59,972:Getting the USDT balance
+2022-09-26 15:10:00,232:USDT balance is: 9.90132415
+2022-09-26 15:10:00,491:Opened positions: ['19085.4', '-0.002', '0.09355885']
+2022-09-26 15:10:01,240:Opened orders: [{'orderId': 78743550143, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'fcTotan0FaIqL7ptZ6bDYd', 'price': '19009', 'avgPrice': '0', 'origQty': '0.002', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'time': 1664197248707, 'updateTime': 1664197248707}, {'orderId': 78743552388, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': '9yz4kxRNdRSnWkisU88v3r', 'price': '0', 'avgPrice': '0', 'origQty': '0.002', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'STOP_MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '19142.60', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'STOP_MARKET', 'time': 1664197249639, 'updateTime': 1664197249639}]
+2022-09-26 15:11:00,001:Getting the USDT balance
+2022-09-26 15:11:00,265:USDT balance is: 9.90132415
+2022-09-26 15:11:00,527:Opened positions: ['19085.4', '-0.002', '0.04360000']
+2022-09-26 15:11:01,292:Opened orders: [{'orderId': 78743550143, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'fcTotan0FaIqL7ptZ6bDYd', 'price': '19009', 'avgPrice': '0', 'origQty': '0.002', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'time': 1664197248707, 'updateTime': 1664197248707}, {'orderId': 78743552388, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': '9yz4kxRNdRSnWkisU88v3r', 'price': '0', 'avgPrice': '0', 'origQty': '0.002', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'STOP_MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '19142.60', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'STOP_MARKET', 'time': 1664197249639, 'updateTime': 1664197249639}]
+2022-09-26 15:11:59,975:Getting the USDT balance
+2022-09-26 15:12:00,237:USDT balance is: 9.90132415
+2022-09-26 15:12:00,496:Opened positions: ['19085.4', '-0.002', '0.04960000']
+2022-09-26 15:12:01,182:Opened orders: [{'orderId': 78743550143, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'fcTotan0FaIqL7ptZ6bDYd', 'price': '19009', 'avgPrice': '0', 'origQty': '0.002', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'time': 1664197248707, 'updateTime': 1664197248707}, {'orderId': 78743552388, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': '9yz4kxRNdRSnWkisU88v3r', 'price': '0', 'avgPrice': '0', 'origQty': '0.002', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'STOP_MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '19142.60', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'STOP_MARKET', 'time': 1664197249639, 'updateTime': 1664197249639}]
+2022-09-26 15:12:59,990:Getting the USDT balance
+2022-09-26 15:13:00,252:USDT balance is: 9.90132415
+2022-09-26 15:13:00,519:Opened positions: ['19085.4', '-0.002', '0.01860000']
+2022-09-26 15:13:01,447:Opened orders: [{'orderId': 78743550143, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'fcTotan0FaIqL7ptZ6bDYd', 'price': '19009', 'avgPrice': '0', 'origQty': '0.002', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'time': 1664197248707, 'updateTime': 1664197248707}, {'orderId': 78743552388, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': '9yz4kxRNdRSnWkisU88v3r', 'price': '0', 'avgPrice': '0', 'origQty': '0.002', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'STOP_MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '19142.60', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'STOP_MARKET', 'time': 1664197249639, 'updateTime': 1664197249639}]
+2022-09-26 15:14:00,013:Getting the USDT balance
+2022-09-26 15:14:00,273:USDT balance is: 9.90132415
+2022-09-26 15:14:00,531:Opened positions: ['19085.4', '-0.002', '0.04343154']
+2022-09-26 15:14:01,154:Opened orders: [{'orderId': 78743550143, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'fcTotan0FaIqL7ptZ6bDYd', 'price': '19009', 'avgPrice': '0', 'origQty': '0.002', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'time': 1664197248707, 'updateTime': 1664197248707}, {'orderId': 78743552388, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': '9yz4kxRNdRSnWkisU88v3r', 'price': '0', 'avgPrice': '0', 'origQty': '0.002', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'STOP_MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '19142.60', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'STOP_MARKET', 'time': 1664197249639, 'updateTime': 1664197249639}]
+2022-09-26 15:14:59,966:Getting the USDT balance
+2022-09-26 15:15:00,891:USDT balance is: 9.90132415
+2022-09-26 15:15:01,820:Opened positions: ['19085.4', '-0.002', '0.02260000']
+2022-09-26 15:15:02,115:Opened orders: [{'orderId': 78743550143, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'fcTotan0FaIqL7ptZ6bDYd', 'price': '19009', 'avgPrice': '0', 'origQty': '0.002', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'time': 1664197248707, 'updateTime': 1664197248707}, {'orderId': 78743552388, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': '9yz4kxRNdRSnWkisU88v3r', 'price': '0', 'avgPrice': '0', 'origQty': '0.002', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'STOP_MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '19142.60', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'STOP_MARKET', 'time': 1664197249639, 'updateTime': 1664197249639}]
+2022-09-26 15:15:59,958:Getting the USDT balance
+2022-09-26 15:16:00,219:USDT balance is: 9.90132415
+2022-09-26 15:16:00,479:Opened positions: ['19085.4', '-0.002', '0.04187104']
+2022-09-26 15:16:01,387:Opened orders: [{'orderId': 78743550143, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'fcTotan0FaIqL7ptZ6bDYd', 'price': '19009', 'avgPrice': '0', 'origQty': '0.002', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'time': 1664197248707, 'updateTime': 1664197248707}, {'orderId': 78743552388, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': '9yz4kxRNdRSnWkisU88v3r', 'price': '0', 'avgPrice': '0', 'origQty': '0.002', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'STOP_MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '19142.60', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'STOP_MARKET', 'time': 1664197249639, 'updateTime': 1664197249639}]
+2022-09-26 15:16:59,985:Getting the USDT balance
+2022-09-26 15:17:00,250:USDT balance is: 9.90132415
+2022-09-26 15:17:00,512:Opened positions: ['19085.4', '-0.002', '0.01050040']
+2022-09-26 15:17:01,249:Opened orders: [{'orderId': 78743550143, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'fcTotan0FaIqL7ptZ6bDYd', 'price': '19009', 'avgPrice': '0', 'origQty': '0.002', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'time': 1664197248707, 'updateTime': 1664197248707}, {'orderId': 78743552388, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': '9yz4kxRNdRSnWkisU88v3r', 'price': '0', 'avgPrice': '0', 'origQty': '0.002', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'STOP_MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '19142.60', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'STOP_MARKET', 'time': 1664197249639, 'updateTime': 1664197249639}]
+2022-09-26 15:17:59,986:Getting the USDT balance
+2022-09-26 15:18:00,245:USDT balance is: 9.90132415
+2022-09-26 15:18:00,502:Opened positions: ['19085.4', '-0.002', '0.02231012']
+2022-09-26 15:18:01,158:Opened orders: [{'orderId': 78743550143, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'fcTotan0FaIqL7ptZ6bDYd', 'price': '19009', 'avgPrice': '0', 'origQty': '0.002', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'time': 1664197248707, 'updateTime': 1664197248707}, {'orderId': 78743552388, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': '9yz4kxRNdRSnWkisU88v3r', 'price': '0', 'avgPrice': '0', 'origQty': '0.002', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'STOP_MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '19142.60', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'STOP_MARKET', 'time': 1664197249639, 'updateTime': 1664197249639}]
+2022-09-26 15:18:59,968:Getting the USDT balance
+2022-09-26 15:19:00,226:USDT balance is: 9.90132415
+2022-09-26 15:19:00,486:Opened positions: ['19085.4', '-0.002', '0.02288483']
+2022-09-26 15:19:01,164:Opened orders: [{'orderId': 78743550143, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'fcTotan0FaIqL7ptZ6bDYd', 'price': '19009', 'avgPrice': '0', 'origQty': '0.002', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'time': 1664197248707, 'updateTime': 1664197248707}, {'orderId': 78743552388, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': '9yz4kxRNdRSnWkisU88v3r', 'price': '0', 'avgPrice': '0', 'origQty': '0.002', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'STOP_MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '19142.60', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'STOP_MARKET', 'time': 1664197249639, 'updateTime': 1664197249639}]
+2022-09-26 15:19:59,990:Getting the USDT balance
+2022-09-26 15:20:00,251:USDT balance is: 9.90132415
+2022-09-26 15:20:00,522:Opened positions: ['19085.4', '-0.002', '-0.01800000']
+2022-09-26 15:20:01,410:Opened orders: [{'orderId': 78743550143, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'fcTotan0FaIqL7ptZ6bDYd', 'price': '19009', 'avgPrice': '0', 'origQty': '0.002', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'time': 1664197248707, 'updateTime': 1664197248707}, {'orderId': 78743552388, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': '9yz4kxRNdRSnWkisU88v3r', 'price': '0', 'avgPrice': '0', 'origQty': '0.002', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'STOP_MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '19142.60', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'STOP_MARKET', 'time': 1664197249639, 'updateTime': 1664197249639}]
+2022-09-26 15:20:59,991:Getting the USDT balance
+2022-09-26 15:21:00,250:USDT balance is: 9.90132415
+2022-09-26 15:21:00,518:Opened positions: ['19085.4', '-0.002', '-0.05191068']
+2022-09-26 15:21:01,196:Opened orders: [{'orderId': 78743550143, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'fcTotan0FaIqL7ptZ6bDYd', 'price': '19009', 'avgPrice': '0', 'origQty': '0.002', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'time': 1664197248707, 'updateTime': 1664197248707}, {'orderId': 78743552388, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': '9yz4kxRNdRSnWkisU88v3r', 'price': '0', 'avgPrice': '0', 'origQty': '0.002', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'STOP_MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '19142.60', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'STOP_MARKET', 'time': 1664197249639, 'updateTime': 1664197249639}]
+2022-09-26 15:21:59,950:Getting the USDT balance
+2022-09-26 15:22:00,206:USDT balance is: 9.90132415
+2022-09-26 15:22:00,468:Opened positions: ['19085.4', '-0.002', '-0.02653094']
+2022-09-26 15:22:01,104:Opened orders: [{'orderId': 78743550143, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'fcTotan0FaIqL7ptZ6bDYd', 'price': '19009', 'avgPrice': '0', 'origQty': '0.002', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'time': 1664197248707, 'updateTime': 1664197248707}, {'orderId': 78743552388, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': '9yz4kxRNdRSnWkisU88v3r', 'price': '0', 'avgPrice': '0', 'origQty': '0.002', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'STOP_MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '19142.60', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'STOP_MARKET', 'time': 1664197249639, 'updateTime': 1664197249639}]
+2022-09-26 15:22:59,963:Getting the USDT balance
+2022-09-26 15:23:00,894:USDT balance is: 9.90132415
+2022-09-26 15:23:01,153:Opened positions: ['19085.4', '-0.002', '0.00144573']
+2022-09-26 15:23:01,407:Opened orders: [{'orderId': 78743550143, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'fcTotan0FaIqL7ptZ6bDYd', 'price': '19009', 'avgPrice': '0', 'origQty': '0.002', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'time': 1664197248707, 'updateTime': 1664197248707}, {'orderId': 78743552388, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': '9yz4kxRNdRSnWkisU88v3r', 'price': '0', 'avgPrice': '0', 'origQty': '0.002', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'STOP_MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '19142.60', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'STOP_MARKET', 'time': 1664197249639, 'updateTime': 1664197249639}]
+2022-09-26 15:23:01,637:The trend changed to the uptrend.
+2022-09-26 15:23:59,950:Getting the USDT balance
+2022-09-26 15:24:00,221:USDT balance is: 9.90132415
+2022-09-26 15:24:00,482:Opened positions: ['19085.4', '-0.002', '-0.03246820']
+2022-09-26 15:24:01,355:Opened orders: [{'orderId': 78743550143, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'fcTotan0FaIqL7ptZ6bDYd', 'price': '19009', 'avgPrice': '0', 'origQty': '0.002', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'time': 1664197248707, 'updateTime': 1664197248707}, {'orderId': 78743552388, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': '9yz4kxRNdRSnWkisU88v3r', 'price': '0', 'avgPrice': '0', 'origQty': '0.002', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'STOP_MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '19142.60', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'STOP_MARKET', 'time': 1664197249639, 'updateTime': 1664197249639}]
+2022-09-26 15:24:59,955:Getting the USDT balance
+2022-09-26 15:25:00,217:USDT balance is: 9.90132415
+2022-09-26 15:25:00,480:Opened positions: ['19085.4', '-0.002', '-0.00320000']
+2022-09-26 15:25:01,220:Opened orders: [{'orderId': 78743550143, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'fcTotan0FaIqL7ptZ6bDYd', 'price': '19009', 'avgPrice': '0', 'origQty': '0.002', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'time': 1664197248707, 'updateTime': 1664197248707}, {'orderId': 78743552388, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': '9yz4kxRNdRSnWkisU88v3r', 'price': '0', 'avgPrice': '0', 'origQty': '0.002', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'STOP_MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '19142.60', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'STOP_MARKET', 'time': 1664197249639, 'updateTime': 1664197249639}]
+2022-09-26 15:25:59,970:Getting the USDT balance
+2022-09-26 15:26:00,228:USDT balance is: 9.90132415
+2022-09-26 15:26:00,488:Opened positions: ['19085.4', '-0.002', '0.03060000']
+2022-09-26 15:26:01,266:Opened orders: [{'orderId': 78743550143, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'fcTotan0FaIqL7ptZ6bDYd', 'price': '19009', 'avgPrice': '0', 'origQty': '0.002', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'time': 1664197248707, 'updateTime': 1664197248707}, {'orderId': 78743552388, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': '9yz4kxRNdRSnWkisU88v3r', 'price': '0', 'avgPrice': '0', 'origQty': '0.002', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'STOP_MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '19142.60', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'STOP_MARKET', 'time': 1664197249639, 'updateTime': 1664197249639}]
+2022-09-26 15:26:59,986:Getting the USDT balance
+2022-09-26 15:27:00,249:USDT balance is: 9.90132415
+2022-09-26 15:27:00,510:Opened positions: ['19085.4', '-0.002', '0.05810683']
+2022-09-26 15:27:01,321:Opened orders: [{'orderId': 78743550143, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'fcTotan0FaIqL7ptZ6bDYd', 'price': '19009', 'avgPrice': '0', 'origQty': '0.002', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'time': 1664197248707, 'updateTime': 1664197248707}, {'orderId': 78743552388, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': '9yz4kxRNdRSnWkisU88v3r', 'price': '0', 'avgPrice': '0', 'origQty': '0.002', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'STOP_MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '19142.60', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'STOP_MARKET', 'time': 1664197249639, 'updateTime': 1664197249639}]
+2022-09-26 15:27:59,985:Getting the USDT balance
+2022-09-26 15:28:00,249:USDT balance is: 9.90132415
+2022-09-26 15:28:00,510:Opened positions: ['19085.4', '-0.002', '0.08660000']
+2022-09-26 15:28:01,228:Opened orders: [{'orderId': 78743550143, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'fcTotan0FaIqL7ptZ6bDYd', 'price': '19009', 'avgPrice': '0', 'origQty': '0.002', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'time': 1664197248707, 'updateTime': 1664197248707}, {'orderId': 78743552388, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': '9yz4kxRNdRSnWkisU88v3r', 'price': '0', 'avgPrice': '0', 'origQty': '0.002', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'STOP_MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '19142.60', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'STOP_MARKET', 'time': 1664197249639, 'updateTime': 1664197249639}]
+2022-09-26 15:28:59,982:Getting the USDT balance
+2022-09-26 15:29:00,249:USDT balance is: 9.90132415
+2022-09-26 15:29:00,510:Opened positions: ['19085.4', '-0.002', '0.08800000']
+2022-09-26 15:29:01,270:Opened orders: [{'orderId': 78743550143, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'fcTotan0FaIqL7ptZ6bDYd', 'price': '19009', 'avgPrice': '0', 'origQty': '0.002', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'time': 1664197248707, 'updateTime': 1664197248707}, {'orderId': 78743552388, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': '9yz4kxRNdRSnWkisU88v3r', 'price': '0', 'avgPrice': '0', 'origQty': '0.002', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'STOP_MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '19142.60', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'STOP_MARKET', 'time': 1664197249639, 'updateTime': 1664197249639}]
+2022-09-26 15:29:59,961:Getting the USDT balance
+2022-09-26 15:30:00,228:USDT balance is: 9.90132415
+2022-09-26 15:30:00,493:Opened positions: ['19085.4', '-0.002', '0.06940000']
+2022-09-26 15:30:01,239:Opened orders: [{'orderId': 78743550143, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'fcTotan0FaIqL7ptZ6bDYd', 'price': '19009', 'avgPrice': '0', 'origQty': '0.002', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'time': 1664197248707, 'updateTime': 1664197248707}, {'orderId': 78743552388, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': '9yz4kxRNdRSnWkisU88v3r', 'price': '0', 'avgPrice': '0', 'origQty': '0.002', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'STOP_MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '19142.60', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'STOP_MARKET', 'time': 1664197249639, 'updateTime': 1664197249639}]
+2022-09-26 15:30:59,961:Getting the USDT balance
+2022-09-26 15:31:00,219:USDT balance is: 9.90132415
+2022-09-26 15:31:00,520:Opened positions: ['19085.4', '-0.002', '-0.05900000']
+2022-09-26 15:31:01,278:Opened orders: [{'orderId': 78743550143, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'fcTotan0FaIqL7ptZ6bDYd', 'price': '19009', 'avgPrice': '0', 'origQty': '0.002', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'time': 1664197248707, 'updateTime': 1664197248707}, {'orderId': 78743552388, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': '9yz4kxRNdRSnWkisU88v3r', 'price': '0', 'avgPrice': '0', 'origQty': '0.002', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'STOP_MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '19142.60', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'STOP_MARKET', 'time': 1664197249639, 'updateTime': 1664197249639}]
+2022-09-26 15:32:00,018:Getting the USDT balance
+2022-09-26 15:32:00,281:USDT balance is: 9.90132415
+2022-09-26 15:32:00,540:Opened positions: ['19085.4', '-0.002', '-0.05285847']
+2022-09-26 15:32:01,306:Opened orders: [{'orderId': 78743550143, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'fcTotan0FaIqL7ptZ6bDYd', 'price': '19009', 'avgPrice': '0', 'origQty': '0.002', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'time': 1664197248707, 'updateTime': 1664197248707}, {'orderId': 78743552388, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': '9yz4kxRNdRSnWkisU88v3r', 'price': '0', 'avgPrice': '0', 'origQty': '0.002', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'STOP_MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '19142.60', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'STOP_MARKET', 'time': 1664197249639, 'updateTime': 1664197249639}]
+2022-09-26 15:33:00,021:Getting the USDT balance
+2022-09-26 15:33:00,291:USDT balance is: 9.90132415
+2022-09-26 15:33:00,560:Opened positions: ['19085.4', '-0.002', '-0.06796160']
+2022-09-26 15:33:01,204:Opened orders: [{'orderId': 78743550143, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'fcTotan0FaIqL7ptZ6bDYd', 'price': '19009', 'avgPrice': '0', 'origQty': '0.002', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'time': 1664197248707, 'updateTime': 1664197248707}, {'orderId': 78743552388, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': '9yz4kxRNdRSnWkisU88v3r', 'price': '0', 'avgPrice': '0', 'origQty': '0.002', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'STOP_MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '19142.60', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'STOP_MARKET', 'time': 1664197249639, 'updateTime': 1664197249639}]
+2022-09-26 15:33:59,944:Getting the USDT balance
+2022-09-26 15:34:00,209:USDT balance is: 9.76160607
+2022-09-26 15:34:00,470:Opened positions: ['0.0', '0.000', '0.00000000']
+2022-09-26 15:34:01,283:Opened orders: []
+2022-09-26 15:34:59,944:Getting the USDT balance
+2022-09-26 15:35:00,211:USDT balance is: 9.76160607
+2022-09-26 15:35:00,524:Opened positions: ['0.0', '0.000', '0.00000000']
+2022-09-26 15:35:01,555:Opened orders: []
+2022-09-26 15:35:59,942:Getting the USDT balance
+2022-09-26 15:36:00,203:USDT balance is: 9.76160607
+2022-09-26 15:36:00,467:Opened positions: ['0.0', '0.000', '0.00000000']
+2022-09-26 15:36:01,520:Opened orders: []
+2022-09-26 15:36:59,966:Getting the USDT balance
+2022-09-26 15:37:00,232:USDT balance is: 9.76160607
+2022-09-26 15:37:00,489:Opened positions: ['0.0', '0.000', '0.00000000']
+2022-09-26 15:37:01,494:Opened orders: []
+2022-09-26 15:37:59,941:Getting the USDT balance
+2022-09-26 15:38:00,889:USDT balance is: 9.76160607
+2022-09-26 15:38:01,147:Opened positions: ['0.0', '0.000', '0.00000000']
+2022-09-26 15:38:01,403:Opened orders: []
+2022-09-26 15:38:59,947:Getting the USDT balance
+2022-09-26 15:39:00,206:USDT balance is: 9.76160607
+2022-09-26 15:39:01,142:Opened positions: ['0.0', '0.000', '0.00000000']
+2022-09-26 15:39:01,630:Opened orders: []
+2022-09-26 15:39:59,945:Getting the USDT balance
+2022-09-26 15:40:00,205:USDT balance is: 9.76160607
+2022-09-26 15:40:00,512:Opened positions: ['0.0', '0.000', '0.00000000']
+2022-09-26 15:40:01,580:Opened orders: []
+2022-09-26 15:41:00,012:Getting the USDT balance
+2022-09-26 15:41:00,276:USDT balance is: 9.76160607
+2022-09-26 15:41:00,532:Opened positions: ['0.0', '0.000', '0.00000000']
+2022-09-26 15:41:01,565:Opened orders: []
+2022-09-26 15:41:59,956:Getting the USDT balance
+2022-09-26 15:42:00,218:USDT balance is: 9.76160607
+2022-09-26 15:42:00,517:Opened positions: ['0.0', '0.000', '0.00000000']
+2022-09-26 15:42:01,371:Opened orders: []
+2022-09-26 15:42:59,947:Getting the USDT balance
+2022-09-26 15:43:00,211:USDT balance is: 9.76160607
+2022-09-26 15:43:00,469:Opened positions: ['0.0', '0.000', '0.00000000']
+2022-09-26 15:43:01,579:Opened orders: []
+2022-09-26 15:44:00,010:Getting the USDT balance
+2022-09-26 15:44:00,276:USDT balance is: 9.76160607
+2022-09-26 15:44:00,540:Opened positions: ['0.0', '0.000', '0.00000000']
+2022-09-26 15:44:01,528:Opened orders: []
+2022-09-26 15:44:01,540:The trend changed to the uptrend.
+2022-09-26 15:44:01,794:The START is FALSE. The QTY is set to : 0.008
+2022-09-26 15:44:01,794:The order QTY is set to: 0.008
+2022-09-26 15:44:02,060:The order has been created. Order id:  78754016484
+2022-09-26 15:44:07,321:Cheking the order status
+2022-09-26 15:44:07,321:The order is not filled. Sleep. 
+2022-09-26 15:44:27,577:Cheking the order status
+2022-09-26 15:44:27,578:The order is not filled. Sleep. 
+2022-09-26 15:44:47,837:Cheking the order status
+2022-09-26 15:44:47,837:The order is not filled. Sleep. 
+2022-09-26 15:45:08,118:Cheking the order status
+2022-09-26 15:45:08,118:The order is not filled. Sleep. 
+2022-09-26 15:45:28,511:Cheking the order status
+2022-09-26 15:45:28,511:The order is not filled. Sleep. 
+2022-09-26 15:45:48,770:Cheking the order status
+2022-09-26 15:45:48,770:The order has been filled. Order id:  78754016484
+2022-09-26 15:45:48,770:Take profit price is 19075.4||| Stop loss price is 19209.5
+2022-09-26 15:45:49,029:The TP order has been created. Order id:  78754520053
+2022-09-26 15:45:49,326:The SL order has been created. Order id:  78754520698
+2022-09-26 15:45:49,327:We have received the sell signal. Creating an order with price: 19152.10
+2022-09-26 15:45:49,785:Getting the USDT balance
+2022-09-26 15:45:50,040:USDT balance is: 9.73096271
+2022-09-26 15:45:50,301:Opened positions: ['19152.1', '-0.008', '-0.05520000']
+2022-09-26 15:45:50,549:Opened orders: [{'orderId': 78754520053, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'ufRbWm78gV0ySvJaC9CmeL', 'price': '19075.40', 'avgPrice': '0', 'origQty': '0.008', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'time': 1664199949135, 'updateTime': 1664199949135}, {'orderId': 78754520698, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': '1vECIqb1IeGVlDLLxRKriq', 'price': '0', 'avgPrice': '0', 'origQty': '0.008', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'STOP_MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '19209.50', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'STOP_MARKET', 'time': 1664199949394, 'updateTime': 1664199949394}]
+2022-09-26 15:45:59,954:Getting the USDT balance
+2022-09-26 15:46:00,225:USDT balance is: 9.73096271
+2022-09-26 15:46:00,481:Opened positions: ['19152.1', '-0.008', '-0.01889958']
+2022-09-26 15:46:01,310:Opened orders: [{'orderId': 78754520053, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'ufRbWm78gV0ySvJaC9CmeL', 'price': '19075.40', 'avgPrice': '0', 'origQty': '0.008', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'time': 1664199949135, 'updateTime': 1664199949135}, {'orderId': 78754520698, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': '1vECIqb1IeGVlDLLxRKriq', 'price': '0', 'avgPrice': '0', 'origQty': '0.008', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'STOP_MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '19209.50', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'STOP_MARKET', 'time': 1664199949394, 'updateTime': 1664199949394}]
+2022-09-26 15:47:00,026:Getting the USDT balance
+2022-09-26 15:47:00,282:USDT balance is: 9.73096271
+2022-09-26 15:47:00,543:Opened positions: ['19152.1', '-0.008', '-0.18080000']
+2022-09-26 15:47:01,379:Opened orders: [{'orderId': 78754520053, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'ufRbWm78gV0ySvJaC9CmeL', 'price': '19075.40', 'avgPrice': '0', 'origQty': '0.008', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'time': 1664199949135, 'updateTime': 1664199949135}, {'orderId': 78754520698, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': '1vECIqb1IeGVlDLLxRKriq', 'price': '0', 'avgPrice': '0', 'origQty': '0.008', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'STOP_MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '19209.50', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'STOP_MARKET', 'time': 1664199949394, 'updateTime': 1664199949394}]
+2022-09-26 15:47:59,959:Getting the USDT balance
+2022-09-26 15:48:00,223:USDT balance is: 9.73096271
+2022-09-26 15:48:00,483:Opened positions: ['19152.1', '-0.008', '-0.26567974']
+2022-09-26 15:48:01,418:Opened orders: [{'orderId': 78754520053, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'ufRbWm78gV0ySvJaC9CmeL', 'price': '19075.40', 'avgPrice': '0', 'origQty': '0.008', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'time': 1664199949135, 'updateTime': 1664199949135}, {'orderId': 78754520698, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': '1vECIqb1IeGVlDLLxRKriq', 'price': '0', 'avgPrice': '0', 'origQty': '0.008', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'STOP_MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '19209.50', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'STOP_MARKET', 'time': 1664199949394, 'updateTime': 1664199949394}]
+2022-09-26 15:48:59,963:Getting the USDT balance
+2022-09-26 15:49:00,220:USDT balance is: 9.73096271
+2022-09-26 15:49:00,478:Opened positions: ['19152.1', '-0.008', '-0.44400000']
+2022-09-26 15:49:01,493:Opened orders: [{'orderId': 78754520053, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'ufRbWm78gV0ySvJaC9CmeL', 'price': '19075.40', 'avgPrice': '0', 'origQty': '0.008', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'time': 1664199949135, 'updateTime': 1664199949135}, {'orderId': 78754520698, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': '1vECIqb1IeGVlDLLxRKriq', 'price': '0', 'avgPrice': '0', 'origQty': '0.008', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'STOP_MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '19209.50', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'STOP_MARKET', 'time': 1664199949394, 'updateTime': 1664199949394}]
+2022-09-26 15:49:59,933:Getting the USDT balance
+2022-09-26 15:50:00,197:USDT balance is: 9.73096271
+2022-09-26 15:50:00,455:Opened positions: ['19152.1', '-0.008', '-0.27221863']
+2022-09-26 15:50:01,565:Opened orders: [{'orderId': 78754520053, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'ufRbWm78gV0ySvJaC9CmeL', 'price': '19075.40', 'avgPrice': '0', 'origQty': '0.008', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'time': 1664199949135, 'updateTime': 1664199949135}, {'orderId': 78754520698, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': '1vECIqb1IeGVlDLLxRKriq', 'price': '0', 'avgPrice': '0', 'origQty': '0.008', 'executedQty': '0', 'cumQuote': '0', 'timeInForce': 'GTC', 'type': 'STOP_MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '19209.50', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'STOP_MARKET', 'time': 1664199949394, 'updateTime': 1664199949394}]
+2022-09-26 15:50:59,932:Getting the USDT balance
+2022-09-26 15:51:00,200:USDT balance is: 9.21029231
+2022-09-26 15:51:00,461:Opened positions: ['0.0', '0.000', '0.00000000']
+2022-09-26 15:51:01,449:Opened orders: []
+2022-09-26 15:51:59,959:Getting the USDT balance
+2022-09-26 15:52:00,222:USDT balance is: 9.21029231
+2022-09-26 15:52:00,483:Opened positions: ['0.0', '0.000', '0.00000000']
+2022-09-26 15:52:01,538:Opened orders: []
+2022-09-26 15:52:59,932:Getting the USDT balance
+2022-09-26 15:53:00,189:USDT balance is: 9.21029231
+2022-09-26 15:53:00,444:Opened positions: ['0.0', '0.000', '0.00000000']
+2022-09-26 15:53:01,636:Opened orders: []
+2022-09-26 15:53:59,940:Getting the USDT balance
+2022-09-26 15:54:00,204:USDT balance is: 9.21029231
+2022-09-26 15:54:00,463:Opened positions: ['0.0', '0.000', '0.00000000']
+2022-09-26 15:54:01,607:Opened orders: []
+2022-09-26 15:54:56,681: - goodbye
+2022-09-26 15:54:56,999:error from callback <function on_close at 0x0000024682DD4940>: on_close() takes 1 positional argument but 3 were given
+2022-09-26 15:56:51,497:Gain balance is set to:9.8
+2022-09-26 15:56:52,770:websocket connected
+2022-09-26 15:56:59,933:Getting the USDT balance
+2022-09-26 15:57:00,860:USDT balance is: 9.21029231
+2022-09-26 15:57:01,124:Opened positions: ['0.0', '0.000', '0.00000000']
+2022-09-26 15:57:01,590:Opened orders: []
+2022-09-26 15:58:00,073:Getting the USDT balance
+2022-09-26 15:58:00,334:USDT balance is: 9.21029231
+2022-09-26 15:58:01,269:Opened positions: ['0.0', '0.000', '0.00000000']
+2022-09-26 15:58:01,774:Opened orders: []
+2022-09-26 15:59:00,021:Getting the USDT balance
+2022-09-26 15:59:00,284:USDT balance is: 9.21029231
+2022-09-26 15:59:00,543:Opened positions: ['0.0', '0.000', '0.00000000']
+2022-09-26 15:59:01,446:Opened orders: []
+2022-09-26 15:59:59,983:Getting the USDT balance
+2022-09-26 16:00:00,243:USDT balance is: 9.21029231
+2022-09-26 16:00:00,504:Opened positions: ['0.0', '0.000', '0.00000000']
+2022-09-26 16:00:01,470:Opened orders: []
+2022-09-26 16:00:59,953:Getting the USDT balance
+2022-09-26 16:01:00,887:USDT balance is: 9.21029231
+2022-09-26 16:01:01,830:Opened positions: ['0.0', '0.000', '0.00000000']
+2022-09-26 16:01:02,104:Opened orders: []
+2022-09-26 16:01:59,926:Getting the USDT balance
+2022-09-26 16:02:00,186:USDT balance is: 9.21029231
+2022-09-26 16:02:01,116:Opened positions: ['0.0', '0.000', '0.00000000']
+2022-09-26 16:02:01,550:Opened orders: []
+2022-09-26 16:02:59,955:Getting the USDT balance
+2022-09-26 16:03:00,234:USDT balance is: 9.21029231
+2022-09-26 16:03:00,495:Opened positions: ['0.0', '0.000', '0.00000000']
+2022-09-26 16:03:01,671:Opened orders: []
+2022-09-26 16:03:59,947:Getting the USDT balance
+2022-09-26 16:04:00,208:USDT balance is: 9.21029231
+2022-09-26 16:04:00,468:Opened positions: ['0.0', '0.000', '0.00000000']
+2022-09-26 16:04:01,636:Opened orders: []
+2022-09-26 16:04:59,930:Getting the USDT balance
+2022-09-26 16:05:00,195:USDT balance is: 9.21029231
+2022-09-26 16:05:00,454:Opened positions: ['0.0', '0.000', '0.00000000']
+2022-09-26 16:05:01,531:Opened orders: []
+2022-09-26 16:05:59,950:Getting the USDT balance
+2022-09-26 16:06:00,211:USDT balance is: 9.21029231
+2022-09-26 16:06:00,474:Opened positions: ['0.0', '0.000', '0.00000000']
+2022-09-26 16:06:01,785:Opened orders: []
+2022-09-26 16:06:59,949:Getting the USDT balance
+2022-09-26 16:07:00,215:USDT balance is: 9.21029231
+2022-09-26 16:07:00,476:Opened positions: ['0.0', '0.000', '0.00000000']
+2022-09-26 16:07:01,685:Opened orders: []
+2022-09-26 16:07:59,928:Getting the USDT balance
+2022-09-26 16:08:00,198:USDT balance is: 9.21029231
+2022-09-26 16:08:00,457:Opened positions: ['0.0', '0.000', '0.00000000']
+2022-09-26 16:08:01,598:Opened orders: []
+2022-09-26 16:08:59,940:Getting the USDT balance
+2022-09-26 16:09:00,879:USDT balance is: 9.21029231
+2022-09-26 16:09:01,147:Opened positions: ['0.0', '0.000', '0.00000000']
+2022-09-26 16:09:01,587:Opened orders: []
+2022-09-26 16:09:59,930:Getting the USDT balance
+2022-09-26 16:10:00,193:USDT balance is: 9.21029231
+2022-09-26 16:10:00,455:Opened positions: ['0.0', '0.000', '0.00000000']
+2022-09-26 16:10:01,791:Opened orders: []
+2022-09-26 16:10:59,929:Getting the USDT balance
+2022-09-26 16:11:00,188:USDT balance is: 9.21029231
+2022-09-26 16:11:00,448:Opened positions: ['0.0', '0.000', '0.00000000']
+2022-09-26 16:11:01,715:Opened orders: []
+2022-09-26 16:11:59,918:Getting the USDT balance
+2022-09-26 16:12:00,180:USDT balance is: 9.21029231
+2022-09-26 16:12:00,440:Opened positions: ['0.0', '0.000', '0.00000000']
+2022-09-26 16:12:00,696:Opened orders: []
+2022-09-26 16:12:59,932:Getting the USDT balance
+2022-09-26 16:13:00,202:USDT balance is: 9.21029231
+2022-09-26 16:13:00,462:Opened positions: ['0.0', '0.000', '0.00000000']
+2022-09-26 16:13:01,692:Opened orders: []
+2022-09-26 16:13:59,944:Getting the USDT balance
+2022-09-26 16:14:00,208:USDT balance is: 9.21029231
+2022-09-26 16:14:00,467:Opened positions: ['0.0', '0.000', '0.00000000']
+2022-09-26 16:14:01,526:Opened orders: []
+2022-09-26 16:14:59,933:Getting the USDT balance
+2022-09-26 16:15:00,863:USDT balance is: 9.21029231
+2022-09-26 16:15:01,123:Opened positions: ['0.0', '0.000', '0.00000000']
+2022-09-26 16:15:01,861:Opened orders: []
+2022-09-26 16:15:59,941:Getting the USDT balance
+2022-09-26 16:16:00,209:USDT balance is: 9.21029231
+2022-09-26 16:16:00,475:Opened positions: ['0.0', '0.000', '0.00000000']
+2022-09-26 16:16:01,779:Opened orders: []
+2022-09-26 16:16:59,919:Getting the USDT balance
+2022-09-26 16:17:00,186:USDT balance is: 9.21029231
+2022-09-26 16:17:00,456:Opened positions: ['0.0', '0.000', '0.00000000']
+2022-09-26 16:17:00,709:Opened orders: []
+2022-09-26 16:17:59,935:Getting the USDT balance
+2022-09-26 16:18:00,195:USDT balance is: 9.21029231
+2022-09-26 16:18:00,453:Opened positions: ['0.0', '0.000', '0.00000000']
+2022-09-26 16:18:00,705:Opened orders: []
+2022-09-26 16:18:46,625: - goodbye
+2022-09-26 16:18:46,928:error from callback <function on_close at 0x000001D6C6291940>: on_close() takes 1 positional argument but 3 were given
