@@ -1,8 +1,4 @@
 
-# Binance-Trading-Bot
-Binance Trading bot where one of five trades should be successful. 
-
-
 # Setup 
 
 - pip install all the packages 
@@ -57,6 +53,8 @@ START_MARGIN = 3
 If you are starting the bot first time, send Y if no press send N and enter the gain ballance: balance of the first trade + margin * Take profit
 
 ![image](https://user-images.githubusercontent.com/109293615/194345374-d1e48728-6d6a-4ff9-8c19-c1934c8e298d.png)
+
+# Process of working
 
 Each time the kendle closes the bot is checking for the BUY/SELL signal and output the result
 
